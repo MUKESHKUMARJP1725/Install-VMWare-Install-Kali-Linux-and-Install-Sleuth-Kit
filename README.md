@@ -1,11 +1,11 @@
+### Name   : MUKESH KUMAR J.P
+### Reg No : 212222223002
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name:
-### Reg No:
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
 
-## **Design Steps:**
+## DESIGN STEPS:
 
 ### **Step 1: Install  VirtualBox**
 
@@ -39,20 +39,15 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 4. Verify installation by running:
    ```sh
    fls -version
-   
-## PROGRAM:
+
 
 ## OUTPUT:
-**VIRTUAL BOX:**
-
-
-**KALI LINUX:**
-
-
-
-**SLEUTH-KIT:**
-
-
+### VIRTUAL BOX :
+![alt text](<Screenshot 2025-09-06 190225.png>)
+### KALI LINUX:
+![alt text](Screenshot_2025-09-06_20_53_26.png)
+### SLEUTH KIT:
+![alt text](Screenshot_2025-09-06_20_24_03.png)
 
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
